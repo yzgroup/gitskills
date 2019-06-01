@@ -1,5 +1,7 @@
 */.settings/*
 */target/*
+target/*
+.settings/*
 *.iml
 
 
