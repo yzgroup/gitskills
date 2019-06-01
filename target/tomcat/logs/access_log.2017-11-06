@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:18:35:43 +0800] "GET /ybgs/api/checkItem/getCheckItemTreeByStripLine.json HTTP/1.1" 404 1053 http-bio-8080-exec-1 184
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:18:35:44 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:18:36:20 +0800] "GET /ybgs/api/checkItem/getCheckItemStripLine.json HTTP/1.1" 200 130 http-bio-8080-exec-6 3436
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:18:46:26 +0800] "GET /ybgs/api/checkItem/listCheckItemTreeDataByCondition.json HTTP/1.1" 200 62 http-bio-8080-exec-1 30
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:18:54:26 +0800] "GET /ybgs/api/checkItem/listCheckItemTreeDataByCondition.json HTTP/1.1" 200 85 http-bio-8080-exec-5 94
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:18:59:29 +0800] "GET /ybgs/api/checkItem/listCheckItemTreeDataByCondition.json HTTP/1.1" 200 62 http-bio-8080-exec-1 304
